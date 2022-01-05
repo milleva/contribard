@@ -1,0 +1,13 @@
+{
+  "name": "github_contributions_miniproject",
+  "version": "1.0.0",
+  "description": "project for exploring user contribution data",
+  "main": "contribs.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --no-warnings --experimental-json-modules contribs.js",
+    "test": "test"
+  },
+  "author": "Evan Miller",
+  "license": "ISC"
+}
